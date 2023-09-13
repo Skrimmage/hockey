@@ -1,0 +1,2481 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2023. All Rights Reserved.",
+  "totalItems" : 43,
+  "totalEvents" : 0,
+  "totalGames" : 43,
+  "totalMatches" : 0,
+  "metaData" : {
+    "timeStamp" : "20230913_182227"
+  },
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "1917-12-19",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020001,
+      "link" : "/api/v1/game/1917020001/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-20T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 7,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020001/content"
+      }
+    }, {
+      "gamePk" : 1917020002,
+      "link" : "/api/v1/game/1917020002/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-20T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 10,
+          "team" : {
+            "id" : 41,
+            "name" : "Montreal Wanderers",
+            "link" : "/api/v1/teams/41"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Westmount Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020002/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1917-12-22",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020003,
+      "link" : "/api/v1/game/1917020003/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-23T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 11,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020003/content"
+      }
+    }, {
+      "gamePk" : 1917020004,
+      "link" : "/api/v1/game/1917020004/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-23T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 0,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 11,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 41,
+            "name" : "Montreal Wanderers",
+            "link" : "/api/v1/teams/41"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Westmount Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020004/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1917-12-26",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020005,
+      "link" : "/api/v1/game/1917020005/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-27T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 41,
+            "name" : "Montreal Wanderers",
+            "link" : "/api/v1/teams/41"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Westmount Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020005/content"
+      }
+    }, {
+      "gamePk" : 1917020006,
+      "link" : "/api/v1/game/1917020006/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-27T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 7,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020006/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1917-12-29",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020007,
+      "link" : "/api/v1/game/1917020007/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-30T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 3,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 41,
+            "name" : "Montreal Wanderers",
+            "link" : "/api/v1/teams/41"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020007/content"
+      }
+    }, {
+      "gamePk" : 1917020008,
+      "link" : "/api/v1/game/1917020008/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1917-12-30T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Westmount Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020008/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-02",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020009,
+      "link" : "/api/v1/game/1917020009/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-03T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 3,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020009/content"
+      }
+    }, {
+      "gamePk" : 1917020035,
+      "link" : "/api/v1/game/1917020035/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-03T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 4,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 41,
+            "name" : "Montreal Wanderers",
+            "link" : "/api/v1/teams/41"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020035/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-05",
+    "totalItems" : 2,
+    "totalEvents" : 0,
+    "totalGames" : 2,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020010,
+      "link" : "/api/v1/game/1917020010/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-06T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 4,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 1,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020010/content"
+      }
+    }, {
+      "gamePk" : 1917020036,
+      "link" : "/api/v1/game/1917020036/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-06T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 5,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 41,
+            "name" : "Montreal Wanderers",
+            "link" : "/api/v1/teams/41"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020036/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-09",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020011,
+      "link" : "/api/v1/game/1917020011/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-10T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020011/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-12",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020012,
+      "link" : "/api/v1/game/1917020012/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-13T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 5,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020012/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-14",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020013,
+      "link" : "/api/v1/game/1917020013/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-15T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 3,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 5,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020013/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-16",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020014,
+      "link" : "/api/v1/game/1917020014/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-17T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 3,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020014/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-19",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020015,
+      "link" : "/api/v1/game/1917020015/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-20T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 4,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020015/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-21",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020016,
+      "link" : "/api/v1/game/1917020016/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-22T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 8,
+            "losses" : 2,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 7,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020016/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020017,
+      "link" : "/api/v1/game/1917020017/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-24T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 7,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 8,
+            "losses" : 3,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020017/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-26",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020018,
+      "link" : "/api/v1/game/1917020018/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-27T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 5,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 7,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020018/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-28",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020019,
+      "link" : "/api/v1/game/1917020019/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-29T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 8,
+            "losses" : 4,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 5,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020019/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-01-30",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020020,
+      "link" : "/api/v1/game/1917020020/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-01-31T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 9,
+            "losses" : 4,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 8,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020020/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-02",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020021,
+      "link" : "/api/v1/game/1917020021/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-03T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 10,
+            "losses" : 4,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 11,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020021/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-04",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020022,
+      "link" : "/api/v1/game/1917020022/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-05T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 5,
+            "losses" : 9,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 8,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 8,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020022/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-06",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020023,
+      "link" : "/api/v1/game/1917020023/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-07T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 10,
+            "losses" : 5,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 9,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020023/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-09",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020024,
+      "link" : "/api/v1/game/1917020024/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-10T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 9,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 7,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 10,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020024/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-11",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020025,
+      "link" : "/api/v1/game/1917020025/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-12T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 10,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 10,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020025/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-13",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020026,
+      "link" : "/api/v1/game/1917020026/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-14T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 11,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020026/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-16",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020027,
+      "link" : "/api/v1/game/1917020027/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-17T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 12,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 10,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020027/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-18",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020028,
+      "link" : "/api/v1/game/1917020028/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-19T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 12,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 7,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020028/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-20",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020029,
+      "link" : "/api/v1/game/1917020029/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-21T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 11,
+            "losses" : 8,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 6,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020029/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020030,
+      "link" : "/api/v1/game/1917020030/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-24T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 6,
+            "losses" : 13,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 12,
+            "losses" : 8,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020030/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-25",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020031,
+      "link" : "/api/v1/game/1917020031/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-26T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 7,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 7,
+            "losses" : 13,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 8,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020031/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-02-27",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020032,
+      "link" : "/api/v1/game/1917020032/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-02-28T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 8,
+            "losses" : 13,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 8,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Quebec Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020032/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-02",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020033,
+      "link" : "/api/v1/game/1917020033/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-03-03T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 9,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 8,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020033/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-06",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917020034,
+      "link" : "/api/v1/game/1917020034/feed/live",
+      "gameType" : "R",
+      "season" : "19171918",
+      "gameDate" : "1918-03-07T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 13,
+            "losses" : 9,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 9,
+            "losses" : 13,
+            "ties" : 0,
+            "type" : "league"
+          },
+          "score" : 9,
+          "team" : {
+            "id" : 36,
+            "name" : "Ottawa Senators (1917)",
+            "link" : "/api/v1/teams/36"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Laurier Avenue Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917020034/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-11",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030111,
+      "link" : "/api/v1/game/1917030111/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-12T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 7,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030111/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-13",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030112,
+      "link" : "/api/v1/game/1917030112/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-14T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Jubilee Rink",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030112/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-20",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030211,
+      "link" : "/api/v1/game/1917030211/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-21T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 7288,
+            "name" : "Vancouver Millionaires",
+            "link" : "/api/v1/teams/7288"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 1,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030211/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-23",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030212,
+      "link" : "/api/v1/game/1917030212/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-24T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 1,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 7288,
+            "name" : "Vancouver Millionaires",
+            "link" : "/api/v1/teams/7288"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 2,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030212/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-26",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030213,
+      "link" : "/api/v1/game/1917030213/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-27T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 1,
+            "losses" : 2,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 7288,
+            "name" : "Vancouver Millionaires",
+            "link" : "/api/v1/teams/7288"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 2,
+            "type" : "league"
+          },
+          "score" : 6,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030213/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-28",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030214,
+      "link" : "/api/v1/game/1917030214/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-29T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 2,
+            "type" : "league"
+          },
+          "score" : 8,
+          "team" : {
+            "id" : 7288,
+            "name" : "Vancouver Millionaires",
+            "link" : "/api/v1/teams/7288"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 3,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030214/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  }, {
+    "date" : "1918-03-30",
+    "totalItems" : 1,
+    "totalEvents" : 0,
+    "totalGames" : 1,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 1917030215,
+      "link" : "/api/v1/game/1917030215/feed/live",
+      "gameType" : "P",
+      "season" : "19171918",
+      "gameDate" : "1918-03-31T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "7",
+        "detailedState" : "Final",
+        "statusCode" : "7",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 3,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 7288,
+            "name" : "Vancouver Millionaires",
+            "link" : "/api/v1/teams/7288"
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 3,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 57,
+            "name" : "Toronto Arenas",
+            "link" : "/api/v1/teams/57"
+          }
+        }
+      },
+      "venue" : {
+        "name" : "Mutual Street Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/1917030215/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}
